@@ -112,5 +112,60 @@ Good data management provides the opportunity for significantly enhanced organiz
 -Metrics: In developing in support of data governance, you hav to consider how each is measured.
 
 **CHAPTER 4**
+**DATA CATALOGS**
+
+A data catalog delivers a comprehensive inventory that provides an enterprise view of all data. This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance. 
+
+BENEFITS OF DATA CATALOGS
+-Finding data
+-Understanding data
+-Making data more useful
+
+DATA CATALOG CONTAIN THREE TYPE OF METADATA
+-Technical Metadata
+-Business Metadata
+-Operational Metadata
+
+**DATA-DRIVEN DECISION MAKING**
+
+**6 STEP PROCESS TO DATA-DRIVEN DECISION-MAKING**
+-Define the objectives
+-Identify the data
+-Prepare the data
+-Analyze the data
+-Determine the findings
+-Take Action
+
+The purpose of of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome.
+
+**CREATING A DATA STRATEGY**
+
+-Data Maturity: Evaluate the organization's existing use of data, skills, and data quality. Consider basic data standards, security policies, and data cleansing processes to avoid errors in results.
+
+-Industry and Size: Prioritize data strategies based on industry regulations and the organization's size. Different industries may emphasize data security and quality over data insights and market initiatives.
+
+-Identify: Clearly define and describe data, including file name, format, and metadata.
+
+-Store: Design capabilities for hosting, sharing, accessing, and processing data.
+
+-Provision: Establish processes for sharing, reusing, and accessing data, along with access guidelines.
+
+-Process: Transform raw data through cleansing, standardization, and integration processes.
+
+-Govern: Institute processes to manage and communicate data policies for internal data use.
+
+**Data Strategy Components:**
+
+-Alignment with Business: Ensure the data strategy supports and advances the organization's overall goals, evolving in sync with changing business strategies.
+
+-Roles and Responsibilities: Document roles and responsibilities for data consumers, IT staff, data scientists, data stewards, and management to ensure effective execution of the data strategy.
+
+-Data Architecture: Define processes, systems, and applications supporting data storage, analysis, data cataloging, data warehouse, data pipelines, and ETL functions.
+
+-Data Management: Implement processes, procedures, policies, skills, and tools to manage the full data lifecycle, including security, privacy, quality, metadata, integration, master data management, and analytics.
+
+-Data Governance and Management: Establish rules for data use through data governance and ensure compliance with these rules through data management processes, tools, and staff.
+
+-Evolution of Data Strategy: Recognize that a data strategy may need to evolve over time. Keep data management and data governance updated in parallel to avoid problems arising from inconsistencies with the data strategy.
 
 
