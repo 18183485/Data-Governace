@@ -50,3 +50,67 @@ Knowledge: Information coupled with experience and practical application. It can
 Wisdom: Knowledge combined with reasoning, and a context to enable relevant application.
 
 Insight: Product of either or both knowledge and wisdom that enables us to see things differently.
+
+**Data Ownership**
+Data ownership describes the rights a person, team, or organization has over one or more data sets.
+
+**Data Architecture**
+Data architecture is a direct reflection of data governance. An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset, and has controls in place to ensure that it aligns with business needs.
+
+**LIFECYCLE OF DATA**
+1. Creation
+2. Storage
+3. Usage
+4. Archival
+5. Destruction
+
+**BIG DATA**
+1. Velocity is the speed at which the data is created and how fast it moves
+2. Volume is the amount of data qualifying as big data
+3. Value is the value the data provides
+4. Variety is the diversity that exists in the types of data
+5. Veracity is the data's quality and accuracy
+
+**CHAPTER 3**
+**ROLES OF DATA**
+
+Operations
+Strategy
+Decision-Making
+Measuring
+Monitoring
+Insight Management
+Reporting
+
+**DATA ANALYTICS**
+**STEPS IN DATA ANALYSIS**
+
+Data mining >> Data cleansing >> Statistical analysis >> Data presentation
+
+Data Mining: Identifying and extracting relevant data from data from data source.
+
+Data Cleansing: Sizable effort including removing errors and duplicate data in preparation for analysis.
+
+Statistical Analysis: Using statistical methods and artificial intelligence to interpret results and develop insights.
+
+Data Presentation: Communicating results using a variety of techniques including visualization and data storytelling.
+
+**FOUR TYPES OF DATA ANALYTICS**
+-Descriptive (What happened?)
+-Diagnostics (Why did it happen?)
+-Predictive (What may happen?)
+-Prescriptive (What should we do?)
+
+Good data management provides the opportunity for significantly enhanced organizational performance.
+
+**The success of governing data can be reduced to three essential factors:**
+
+-People: In governing data, people are the subject matter experts, they are responsible for quality, and they oversee and manage all related processes and responsibilities.
+
+-Policies: A set of adopted rules by an organization that apply to the handling of data specific condition and for particular desired outcomes.
+
+-Metrics: In developing in support of data governance, you hav to consider how each is measured.
+
+**CHAPTER 4**
+
+
