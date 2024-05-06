@@ -1,5 +1,5 @@
 # Data-Governace
-
+**CHAPTER 1**
 **DATA GOVERNANCE**
 Data Governance is all about managing data well, but data governance is not restricted to only data management. Data governance is focussed on roles and responsibilities , policies, definitions, metrics and lifecycle of data.
 
@@ -33,4 +33,20 @@ Tools: Deploying and utilizing a range of software based tools to support data g
 Communication and Collabotaion: Adopting specific methods for high-perfomance communications and collaboration in support of data governance and management.
 
 **DATA CULTURE**
+Data Culture is how your organization values data and manages and uses it.
 
+
+**CHAPTER 2**
+**DATA TO INSIGHT**
+
+Data >> Information >> Knowledge >> Wisdom >> Insight
+
+Data: Single or multiples units of something. On their own largely meaningless
+
+Information: Data put into context giving it meaning.
+
+Knowledge: Information coupled with experience and practical application. It can be actionable.
+
+Wisdom: Knowledge combined with reasoning, and a context to enable relevant application.
+
+Insight: Product of either or both knowledge and wisdom that enables us to see things differently.
